@@ -1,0 +1,33 @@
+# IDE specific
+.idea
+.vscode
+
+# Python specific
+venv/
+env/
+.venv/ 
+__pycache__/ 
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Secrets and environment files
+.env
+
+# Log files
+*.log
+logs/
+
+# Другие
+# .private
+# uploads/
+# *.pth
+
+# База Chroma
+chroma_db/
+
+# База данных
+data/
