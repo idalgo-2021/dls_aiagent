@@ -135,7 +135,7 @@ sqlite3 data/sneakers.db < init_sneakers_db.sql
 
 ## Работа программы
 
-**Скринкаст:** - https://github.com/idalgo-2021/dls_aiagent
+**Скринкаст:** - [Ссылка на Яндекс Диск](https://disk.yandex.ru/i/r_VCaeiH80BzFw)
 
 
 **Скриншоты:**
